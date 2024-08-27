@@ -1,0 +1,33 @@
+/* .header{
+    text-align: center;
+} */
+.header img{
+    width: 280px;
+    display: block;
+    margin: 0px auto;
+}
+.header nav{
+    background-color: black;
+        padding: 10px 0;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.header nav a:first-child{
+    padding-left: 30px;
+}
+.header nav a:hover{
+    background-color: rgba(227, 199, 199, 0.354);
+}
+.search{
+    background-color:rgba(20, 17, 17, 0.931);
+    padding: 20px;
+}
+.search input{
+    width: 80%;
+    
+    display: block;
+    margin: 0 auto;
+}
